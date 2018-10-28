@@ -19,5 +19,5 @@ public class Test {
     Hashtable hashtable = new Hashtable();
     LinkedHashMap linkedHashMap = new LinkedHashMap();
     TreeMap treeMap = new TreeMap();
-
+  private String  name1;
 }
